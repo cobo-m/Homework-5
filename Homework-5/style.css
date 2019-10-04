@@ -1,0 +1,96 @@
+body {
+  background-color: #D2D3D7;
+}
+.logo {
+  height: 100px;
+}
+.navbar {
+  background-color: #F3623C !important;
+  border-radius: 10px 10px 0px 0px;
+}
+.navbar-nav, .nav-item  {
+  width: 100%;
+  text-align: center;
+  border-left: 1px solid white;
+}
+.jumbotron {
+  background-color: #FED035;
+}
+.desno {
+  width: 50%;
+  transform: translate(100%, 0);
+}
+.btn {
+  background-color: #F3623C;
+  border: none;
+}
+.col-sm {
+  background-color: #bdbec2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.pozadina {
+  background-color: white;
+  padding-left: 25px;
+  padding-right: 15px;
+  padding-top: 10px;
+  margin: -32px -15px -10px -15px;
+}
+.razmak {
+  width: 33%;
+  padding: 10px;
+  color: white;
+}
+.razmak1 {
+  width: 28%;
+  padding: 10px;
+  color: gray;
+}
+.razmak2 {
+  width: 44%;
+  padding: 10px;
+  color: gray;
+}
+.razmak3 {
+  width: 28%;
+  padding: 10px;
+}
+.list-group-item {
+  padding-left: 30%;
+  border: none;
+  border-right: 2px solid lightgray !important;
+}
+.col-sm2 {
+  background-color: white;
+  padding-right: 10%;
+}
+.col-sm3 {
+  background-color: white;
+}
+.col-sm4 {
+  background-color: white;
+}
+.test {
+  border: none !important;
+}
+.slike {
+  height: 100px;
+  transform: translate(-40px, 0);
+}
+.col-sm5 {
+  padding: 0;
+}
+.futer {
+  font-size: 25px;
+  margin-top: -70px !important;
+  line-height: 80px;
+  color: white;
+}
+.futer2 {
+  font-size: 15px;
+  color: white;
+}
+.pozadina-futer {
+  background-color: #ed1b24;
+}
+
